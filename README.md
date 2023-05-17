@@ -13,7 +13,7 @@ Course | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 Network+ | CompTIA | 1.5mo | 20hr/wk | self-paced | CompTIA A+
 [Wireshark Masterclass](https://youtu.be/DAtyzE1TUlI) | Chris Greer | 1wk | 10hrs | self-paced | none
-CCNA Training | ITPro.tv | 4wks | 10hrs/wk | self-paced | Network+ or experience with networking
+CCNA Training | [ITPro.tv](https://www.itpro.tv/) | 4wks | 10hrs/wk | self-paced | Network+ or experience with networking
 
 
 ## Operating Systems
@@ -21,7 +21,7 @@ CCNA Training | ITPro.tv | 4wks | 10hrs/wk | self-paced | Network+ or experience
 Course | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 A+ | CompTIA | 4wks | 20hr/wk | self-paced | none
-Windows Server 2019 | ITPro.tv | 2wks | 6hrs/wk | self-paced | none
+Windows Server 2019 | [ITPro.tv](https://www.itpro.tv/) | 2wks | 6hrs/wk | self-paced | none
 Linux+ | CompTIA | 4wks | 10hrs/wk | self-paced | none
 
 
@@ -32,8 +32,8 @@ Course | School | Duration | Effort | Frequency | Prerequisites
 [Python for Everyone](https://www.coursera.org/specializations/python) | University of Michigan | 8mo | 4hrs/wk | self-paced | none
 [OvertheWire (bash)](https://overthewire.org/wargames/) | website | 3wks | 8hrs/wk | self-paced | none
 [UndertheWire (powershell)](https://underthewire.tech/) | website | 2wks | 8hrs/wk | self-paced | none
-Mastering Linux Shell Scripting | PDF | 6wks | 10hrs/wk | self-paced | none
-Powershell for Sysadmins | PDF | 6wks | 10hrs/wk | self-paced | UndertheWire
+Linux Shell Scripting | [ITPro.tv](https://www.itpro.tv/) | 2wks | 10hrs/wk | self-paced | none
+Powershell Skills | [ITPro.tv](https://www.itpro.tv/) | 6wks | 10hrs/wk | self-paced | UndertheWire
 
 
 ## Labs & Projects
