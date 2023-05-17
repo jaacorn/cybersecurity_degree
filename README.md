@@ -1,4 +1,4 @@
-# The Open Source Cybersecurity Degree
+# The Self-Paced Cybersecurity Degree
 ###### Design credit goes to [ForrestKnight](https://github.com/ForrestKnight)
 
 This is a list of subjects, courses, and materials I am using to get into cybersecurity without a formal degree. The majority of it is free to low-cost. The biggest expenses are the certification tests themselves.
@@ -79,4 +79,4 @@ eCMAP | [INE](https://ine.com/) | 5wks | 10hrs/wk | none
 Project | Effort | Description | Prerequisites
 :-- | :--: | :--: | :--:
 [TraceLabs](https://www.tracelabs.org/) | 10hrs/wk | Develop your OSINT skills working in real-world scenarios, volunteering for a good cause | none
-[Bugcrowd](https://www.bugcrowd.com/) | website | Learn Web Application pentesting by diving into bug bounties. Theres a chance to earn some $ too if you're good | none
+[Bugcrowd](https://www.bugcrowd.com/) | 12hrs/wk | Learn Web Application pentesting by diving into bug bounties. Theres a chance to earn some $ too if you're good | none
