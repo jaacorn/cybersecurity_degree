@@ -61,7 +61,6 @@ Personal Blog | 6hr/wk | Build a blog/personal website to host walkthroughs, wri
 Personal Blog | 6hr/wk | Build a blog/personal website to host walkthroughs, write-ups, and more to showcase your knowledge and investment in the cybersecurity community | none
 
 &nbsp;
-<hr>
 
 # Advancing Beyond the Basics
 
