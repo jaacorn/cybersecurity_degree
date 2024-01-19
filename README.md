@@ -9,18 +9,6 @@ You can find the article I wrote regarding this list here: [Self Paced Cybersecu
 <hr>
 &nbsp;
 
-## Networking
-
-Course | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-Network+ | CompTIA | 1.5mo | 20hr/wk | self-paced | CompTIA A+
-OR | 
-CCNA | [ITPro.tv](https://www.itpro.tv/) | 4wks | 10hrs/wk | self-paced | Network+ or experience with networking
-[Wireshark Masterclass](https://youtu.be/DAtyzE1TUlI) | Chris Greer | 1wk | 10hrs | self-paced | none
-
-
-&nbsp;
-
 ## Operating Systems
 
 Course | School | Duration | Effort | Frequency | Prerequisites
@@ -29,6 +17,17 @@ A+ | CompTIA | 4wks | 20hr/wk | self-paced | none
 Administering Windows Server | [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-800t00) | 4wks | 20hrs/wk | self-paced | Experience with Windows Server (projects, basic setup, etc)
 Administering Windows Server | [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-800t00) | 4wks | 20hrs/wk | self-paced | Experience with Windows Server (projects, basic setup, etc)
 Linux+ | CompTIA | 4wks | 10hrs/wk | self-paced | none
+
+&nbsp;
+
+## Networking
+
+Course | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+Network+ | CompTIA | 1.5mo | 20hr/wk | self-paced | CompTIA A+
+OR | 
+CCNA | [ITPro.tv](https://www.itpro.tv/) | 4wks | 10hrs/wk | self-paced | Network+ or experience with networking
+[Wireshark Masterclass](https://youtu.be/DAtyzE1TUlI) | Chris Greer | 1wk | 10hrs | self-paced | none
 
 &nbsp;
 
