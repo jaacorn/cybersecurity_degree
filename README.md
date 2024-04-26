@@ -15,7 +15,6 @@ Course | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 A+ | CompTIA | 4wks | 20hr/wk | self-paced | none
 Administering Windows Server | [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-800t00) | 4wks | 20hrs/wk | self-paced | Experience with Windows Server (projects, basic setup, etc)
-Administering Windows Server | [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-800t00) | 4wks | 20hrs/wk | self-paced | Experience with Windows Server (projects, basic setup, etc)
 Linux+ | CompTIA | 4wks | 10hrs/wk | self-paced | none
 
 &nbsp;
@@ -38,8 +37,6 @@ Course | School | Duration | Effort | Frequency | Prerequisites
 [Python for Everyone](https://www.coursera.org/specializations/python) | University of Michigan | 8mo | 4hrs/wk | self-paced | none
 [OvertheWire (bash)](https://overthewire.org/wargames/) | Online Wargames | 2wks | 8hrs/wk | self-paced | none
 [UndertheWire (powershell)](https://underthewire.tech/) | Online Wargames | 2wks | 8hrs/wk | self-paced | none
-[OvertheWire (bash)](https://overthewire.org/wargames/) | Online Wargames | 2wks | 8hrs/wk | self-paced | none
-[UndertheWire (powershell)](https://underthewire.tech/) | Online Wargames | 2wks | 8hrs/wk | self-paced | none
 Linux Shell Scripting | [ITPro.tv](https://www.itpro.tv/) | 2wks | 10hrs/wk | self-paced | none
 Powershell Skills | [ITPro.tv](https://www.itpro.tv/) | 6wks | 10hrs/wk | self-paced | UndertheWire
 
@@ -51,12 +48,10 @@ Project | Effort | Description | Prerequisites
 :-- | :--: | :--: | :--:
 Active Directory Lab | 10hrs/wk | Create a working AD setup from home using virtualization. Start from scratch, build, configure, test, break, and learn how Active Directory works | Network+
 Home Network | 60hrs | Ditch your ISP modem/router/ap and build your own network with your own equipment. Firewall, switch, aps, servers, DMZ, etc. | Network+
-Home Network | 60hrs | Ditch your ISP modem/router/ap and build your own network with your own equipment. Firewall, switch, aps, servers, DMZ, etc. | Network+
 [Programming Projects](https://github.com/EONRaider/100-redteam-projects) | 5hrs/wk | Hone your programming skills using EONRaider's list of 100 Redteam Projects | Python for Everyone
 [TryHackMe](https://tryhackme.com/) | 8hrs/wk | Test your abilities to think outside the box and crush challenges on TryHackMe | none
 [PicoCTF](https://picoctf.org/) | 4hrs/wk | Make problem-solving second nature with hundreds of short challenges through PicoCTF | none
 [HacktheBox](https://www.hackthebox.com/) | 8hrs/wk | Step up your CTF skills with some more challenging CTFs | TryHackMe
-Personal Blog | 6hr/wk | Build a blog/personal website to host walkthroughs, write-ups, and more to showcase your knowledge and investment in the cybersecurity community | none
 Personal Blog | 6hr/wk | Build a blog/personal website to host walkthroughs, write-ups, and more to showcase your knowledge and investment in the cybersecurity community | none
 
 &nbsp;
